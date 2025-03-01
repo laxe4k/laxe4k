@@ -14,6 +14,7 @@ Je connais et j'ai travaillé avec les langages et technologies suivants :
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-003B57?style=flat&logo=gnome-terminal&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
@@ -25,6 +26,17 @@ Je suis actuellement en train d'apprendre et de me perfectionner dans les langag
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
+## Langages et technologies à apprendre
+
+Je souhaite apprendre les langages et technologies suivants :
+
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ## ✨ Soutenez mon travail
 
@@ -38,7 +50,6 @@ Votre soutien me permet de continuer à créer des projets open source et à par
 - 🏆 **Patreon** - [Soutenez sur le long terme](https://patreon.laxe4k.com/)
 
 Vos contributions m'aident à maintenir mes projets, améliorer mes compétences et développer de nouvelles idées. Merci infiniment pour votre générosité ! 💙
-
 
 ## À propos de moi
 
