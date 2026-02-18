@@ -38,7 +38,8 @@ Bienvenue sur mon profil GitHub. Ici, vous trouverez mes projets open source, me
 ### Apprentissage en cours
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=dotnet&logoColor=white)
+
 
 ### À explorer
 
