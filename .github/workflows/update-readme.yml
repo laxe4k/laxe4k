@@ -49,4 +49,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_traffic: yes
-          plugin_wakatime: no
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_days: 7
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
