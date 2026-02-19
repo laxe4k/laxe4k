@@ -4,9 +4,7 @@ Bienvenue sur mon profil GitHub. Ici, vous trouverez mes projets open source, me
 
 ## Statistiques
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=laxe4k&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=laxe4k&layout=compact&langs_count=10&theme=tokyonight)
+<p align="left"><img src="https://raw.githubusercontent.com/laxe4k/laxe4k/main/github-metrics.svg" /></p>
 
 ## Stack
 
