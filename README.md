@@ -61,7 +61,11 @@ Votre soutien me permet de continuer à créer des projets open source et à par
 
 ## À propos de moi
 
-- :speech_balloon: Langues : français, anglais
-- :house: Passionné d'auto-hébergement
+- 💻 Développeur full-stack
+- 💬 Langues : français, anglais
+- 🏠 Passionné d'auto-hébergement
+- 🌱 Toujours en train d'apprendre de nouvelles technologies
+- 🤝 J'aime contribuer à des projets open source
+- 🏆 Objectif : devenir un expert en développement full-stack
 
 :tada: Merci d'avoir visité mon profil !
