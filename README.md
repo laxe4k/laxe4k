@@ -5,7 +5,7 @@
 </p>
 
 ### 🚀 Développeur Full-Stack
-Bienvenue sur mon profil GitHub. Ici, vous trouverez mes projets open source, mes expérimentations et ce que j'apprends en ce moment.
+Développeur Full-Stack orienté Python, spécialisé dans la conception d'applications modernes, performantes et de scripts d'automatisation. Je maîtrise les architectures backend Python ainsi que les frameworks frontend Vue, Nuxt et Angular.
 
 ---
 
