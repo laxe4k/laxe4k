@@ -1,8 +1,55 @@
-# Laxe4k ![Visitors count](https://visitor-badge.laobi.icu/badge?page_id=laxe4k.laxe4k)
+# 👋 Salut, moi c'est Alexandre (Laxe4k)
 
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=laxe4k.laxe4k" alt="Visiteurs">
+</p>
+
+### 🚀 Développeur Full-Stack
 Bienvenue sur mon profil GitHub. Ici, vous trouverez mes projets open source, mes expérimentations et ce que j'apprends en ce moment.
 
-## Statistiques
+---
+
+## 👨‍💻 À propos de moi
+
+- 💻 Développeur full-stack
+- 💬 Langues : français, anglais
+- 🏠 Passionné d'auto-hébergement
+- 🌱 Toujours en train d'apprendre de nouvelles technologies
+- 🤝 J'aime contribuer à des projets open source
+- 🏆 Objectif : devenir un expert en développement full-stack
+
+---
+
+## 🛠️ Ma Stack Technique
+
+### 💻 Langages principaux & Scripting
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,php,mysql,bash,powershell" alt="Langages principaux">
+</p>
+
+### 🌐 Web & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,nuxt,vue,nextjs,react,angular,jquery" alt="Web & Frameworks">
+</p>
+
+### ⚙️ Plateforme & Outils
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,docker,firebase" alt="Plateforme & Outils">
+</p>
+
+### 📚 Apprentissage en cours
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cs" alt="Apprentissage en cours">
+</p>
+
+### 🔍 À explorer
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,ruby,kotlin,laravel" alt="À explorer">
+</p>
+
+---
+
+## 📊 Statistiques
 
 <div>
   <picture>
@@ -12,6 +59,8 @@ Bienvenue sur mon profil GitHub. Ici, vous trouverez mes projets open source, me
   </picture>
 </div>
 
+<br>
+
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.laxe4k.com/api?username=laxe4k&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&hide_border=true&locale=fr">
@@ -19,6 +68,8 @@ Bienvenue sur mon profil GitHub. Ici, vous trouverez mes projets open source, me
     <img alt="Statistiques GitHub" src="https://github-readme-stats.laxe4k.com/api?username=laxe4k&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000&hide_border=true&locale=fr">
   </picture>
 </div>
+
+<br>
 
 <div>
   <picture>
@@ -28,6 +79,8 @@ Bienvenue sur mon profil GitHub. Ici, vous trouverez mes projets open source, me
   </picture>
 </div>
 
+<br>
+
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Laxe4k&bg_color=00000000&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&area_color=00000000&title=Graphique%20des%20Contributions%20de%20Laxe4k&x_axis_title=Jours&y_axis_title=Contributions">
@@ -36,66 +89,16 @@ Bienvenue sur mon profil GitHub. Ici, vous trouverez mes projets open source, me
   </picture>
 </div>
 
-## Stack
-
-### Langages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-003B57?style=flat&logo=gnome-terminal&logoColor=white)
-
-### Web
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=nuxt&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-
-### Plateforme
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-### Apprentissage en cours
-
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=dotnet&logoColor=white)
-
-
-### À explorer
-
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+---
 
 ## ✨ Soutenez mon travail
 
-Votre soutien me permet de continuer à créer des projets open source et à partager mes connaissances avec la communauté. Chaque contribution, quelle que soit sa taille, fait une grande différence.
+Votre soutien me permet de continuer à créer des projets open source et à partager mes connaissances avec la communauté.
 
-### Options de soutien
+<p align="left">
+  <a href="https://github.com/sponsors/laxe4k"><img src="https://img.shields.io/badge/-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsors"></a>
+  <a href="https://buymeacoffee.com/laxe4k"><img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Coffee"></a>
+</p>
 
-[![GitHub Sponsors](https://img.shields.io/badge/-GitHub%20Sponsors-EA4AAA?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/laxe4k)
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/laxe4k)
-
-## À propos de moi
-
-- 💻 Développeur full-stack
-- 💬 Langues : français, anglais
-- 🏠 Passionné d'auto-hébergement
-- 🌱 Toujours en train d'apprendre de nouvelles technologies
-- 🤝 J'aime contribuer à des projets open source
-- 🏆 Objectif : devenir un expert en développement full-stack
-
-:tada: Merci d'avoir visité mon profil !
+<br>
+<p align="left">🎉 Merci d'avoir visité mon profil !</p>
