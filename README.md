@@ -12,11 +12,12 @@ Développeur Full-Stack orienté Python, spécialisé dans la conception d'appli
 ## 👨‍💻 À propos de moi
 
 - 💻 Développeur full-stack
+- 🎨 UX/UI Designer & Graphiste
 - 💬 Langues : français, anglais
 - 🏠 Passionné d'auto-hébergement
 - 🌱 Toujours en train d'apprendre de nouvelles technologies
 - 🤝 J'aime contribuer à des projets open source
-- 🏆 Objectif : devenir un expert en développement full-stack
+- 🏆 Objectif : devenir un expert polyvalent en développement, design et expérience utilisateur
 
 ---
 
