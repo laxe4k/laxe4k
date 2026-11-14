@@ -4,8 +4,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=laxe4k.laxe4k" alt="Visiteurs">
 </p>
 
-### 🚀 Développeur Full-Stack
-Développeur Full-Stack orienté Python, spécialisé dans la conception d'applications modernes, performantes et de scripts d'automatisation. Je maîtrise les architectures backend Python ainsi que les frameworks frontend Vue, Nuxt et Angular.
+### 🚀 Développeur Full-Stack & Designer UX/UI
+Développeur Full-Stack orienté Python, spécialisé dans la conception d'applications modernes, performantes et de solutions d'automatisation. Je maîtrise les architectures backend Python ainsi que les frameworks frontend Vue, Nuxt et Angular. Je combine également mes compétences en UX/UI Design et en graphisme pour concevoir des interfaces intuitives, esthétiques et offrant une expérience utilisateur optimale.
 
 ---
 
