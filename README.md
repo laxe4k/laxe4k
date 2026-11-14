@@ -30,12 +30,12 @@ Développeur Full-Stack orienté Python, spécialisé dans la conception d'appli
 
 ### 🌐 Web & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,nuxt,vue,nextjs,react,angular,jquery" alt="Web & Frameworks">
+  <img src="https://skillicons.dev/icons?i=html,css,nuxtjs,vue,nextjs,react,angular,jquery,fastapi" alt="Web & Frameworks">
 </p>
 
 ### ⚙️ Plateforme & Outils
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,docker,firebase" alt="Plateforme & Outils">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,nodejs,docker,firebase,redis,nginx,githubactions,vitest" alt="Plateforme & Outils">
 </p>
 
 ### 📚 Apprentissage en cours
@@ -45,7 +45,7 @@ Développeur Full-Stack orienté Python, spécialisé dans la conception d'appli
 
 ### 🔍 À explorer
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,ruby,kotlin,laravel" alt="À explorer">
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,ruby,kotlin,laravel" alt="À explorer">
 </p>
 
 ---
