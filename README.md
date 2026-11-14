@@ -23,19 +23,34 @@ Développeur Full-Stack orienté Python, spécialisé dans la conception d'appli
 
 ## 🛠️ Ma Stack Technique
 
-### 💻 Langages principaux & Scripting
+### 💻 Langages & Scripting
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,php,mysql,bash,powershell" alt="Langages principaux">
+  <img src="https://skillicons.dev/icons?i=js,ts,bash,powershell" alt="Langages & Scripting">
 </p>
 
-### 🌐 Web & Frameworks
+### 🌐 Frontend & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,nuxtjs,vue,nextjs,react,angular,jquery,fastapi" alt="Web & Frameworks">
+  <img src="https://skillicons.dev/icons?i=html,css,vue,nuxtjs,angular,react,nextjs,jquery" alt="Frontend & Frameworks">
 </p>
 
-### ⚙️ Plateforme & Outils
+### ⚡ Backend & API
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,nodejs,docker,firebase,redis,nginx,githubactions,vitest" alt="Plateforme & Outils">
+  <img src="https://skillicons.dev/icons?i=py,php,nodejs,fastapi" alt="Backend & API">
+</p>
+
+### 🗄️ Bases de données
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis" alt="Bases de données">
+</p>
+
+### ⚙️ Infrastructure & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,aws,cloudflare,githubactions" alt="Infrastructure & DevOps">
+</p>
+
+### 🧰 Outils & Services
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vitest,firebase" alt="Outils & Services">
 </p>
 
 ### 📚 Apprentissage en cours
