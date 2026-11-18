@@ -55,12 +55,12 @@ Développeur Full-Stack orienté Python, spécialisé dans la conception d'appli
 
 ### 📚 Apprentissage en cours
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cs" alt="Apprentissage en cours">
+  <img src="https://skillicons.dev/icons?i=java,cs,rust" alt="Apprentissage en cours">
 </p>
 
 ### 🔍 À explorer
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,ruby,kotlin,laravel" alt="À explorer">
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,ruby,kotlin,laravel" alt="À explorer">
 </p>
 
 ---
